@@ -1,0 +1,35 @@
+# ANÁLISE DA QUALIDADE DO VINHO: RELATÓRIO TÉCNICO
+
+## 1. Relação entre Teor Alcoólico e Qualidade do Vinho
+**Objetivo**: Investigar a correlação entre concentração de álcool e classificação qualitativa dos vinhos.
+
+**Resultados**:
+• O gráfico de barras revela uma correlação positiva entre teor alcoólico médio e qualidade.
+• Vinhos classificados como 7-8 apresentam concentração alcoólica média significativamente superior aos classificados como 3-4.
+• Tendência crescente observada ao longo das categorias de qualidade.
+
+**Conclusão**:
+O teor alcoólico demonstra ser um preditor relevante da qualidade do vinho, com vinhos premium geralmente apresentando maior graduação alcoólica.
+
+## 2. Distribuição das Classificações Qualitativas
+**Objetivo**: Examinar a distribuição percentual dos vinhos por categoria de qualidade.
+
+**Resultados**:
+• Predominância expressiva de vinhos nas categorias intermediárias (5-6), totalizando mais de 70% da amostra.
+• Distribuição assimétrica, com menor representatividade nas categorias superiores (7-9).
+• Vinhos de qualidade excepcional (8-9) constituem uma minoria na amostra analisada.
+
+**Conclusão**:
+A distribuição normal centrada nas categorias 5-6 sugere que a maioria dos vinhos analisados possui qualidade média, com poucos exemplares atingindo excelência.
+
+## 3. Influência da Acidez Fixa na Qualidade
+**Objetivo**: Avaliar a relação entre acidez fixa e qualidade percebida do vinho.
+
+**Resultados**:
+• Vinhos de qualidade superior (7-9) apresentam acidez fixa média ligeiramente inferior aos de qualidade básica (3-5).
+• Padrão de equilíbrio mais consistente de acidez observado nas categorias superiores.
+• Variações de acidez fixa mostram-se mais significativas nos vinhos de menor qualidade.
+
+**Conclusão**:
+Os dados indicam que o equilíbrio da acidez fixa é um fator relevante para vinhos premium, sugerindo que níveis moderados e bem balanceados de acidez contribuem positivamente para a qualidade do produto final.
+
