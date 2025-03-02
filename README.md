@@ -1,4 +1,3 @@
-# Fabrica_de_software_AD_2025.1
 # Fábrica de Software - Análise de Dados 2025.1
 
 Este repositório contém todos os projetos desenvolvidos para a Fábrica de Software na área de Análise de Dados.
